@@ -1,0 +1,15 @@
+{
+  "name": "graph",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Luis Gustavo Santos <gustavoluisrh@gmail.com> (http://spartadev.com.br/)",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx nodemon src/index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.14.2",
+    "graphql": "^15.0.0",
+    "nodemon": "^2.0.4"
+  }
+}
